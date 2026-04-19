@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Gayu 👋
 
-<!--
-**gayatrishete619/gayatrishete619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student passionate about technology and innovation
+Learning Machine Learning and development
+Currently improving my coding skills
+Goal: Build impactful real-world projects
+
+Skills
+
+Programming: C, Python
+Basics of Machine Learning
+Problem Solving
+
+Projects
+
+SkillLink (Flask-based project)
+More projects coming soon
+
+Connect with Me
+
+GitHub: https://github.com/your-username
+
+Support
+If you like my work, consider supporting me:
+https://github.com/your-username
+
+Just replace your-username with your actual GitHub username and you’re good to go 👍
