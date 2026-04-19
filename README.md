@@ -1,4 +1,4 @@
-Hi, I'm Gayu 👋
+Hi, I'm Gayatri 👋
 
 Welcome to my GitHub profile!
 
