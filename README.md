@@ -22,10 +22,10 @@ More projects coming soon
 
 Connect with Me
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/gayatrishete619
 
 Support
 If you like my work, consider supporting me:
-https://github.com/your-username
+https://github.com/gayatrishete619
 
 Just replace your-username with your actual GitHub username and you’re good to go 👍
